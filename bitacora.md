@@ -3,6 +3,8 @@ Estudiante: Azurim (@azurimmejia-cmd)
 
 Fecha de ejecución: 22 de marzo, 2026
 
+Duración estimada: 1.5 horas 
+
 Sistema Operativo: Windows 11 (usando MINGW64 / Git Bash)
 
 1. Resumen de Ejecución (Paso a Paso)
@@ -18,7 +20,7 @@ Paso 5 (Creación): Generé el archivo hello.txt usando el comando touch.
 
 Paso 6 (Edición): Entré a nano hello.txt y registré mi usuario y mi color favorito (Azul).
 
-Paso 7 (Registro): Preparé el archivo con git add y guardé el cambio local con git commit.
+Paso 7 (Registro): Ejecuté git status para revisar los archivos. Preparé el archivo con git add y guardé el cambio local con git commit.
 
 Paso 8 (Sincronización): Realicé el git push para subir la rama y los cambios a la nube de GitHub.
 
@@ -27,7 +29,7 @@ Interrupción de Flujo (^C): Se generó un comando nulo mediante Ctrl + C. Apren
 
 Advertencia de Saltos de Línea (CRLF): Git avisó sobre el reemplazo de LF por CRLF. Identifiqué que es una gestión automática de Git para que archivos creados en Windows sean compatibles con Linux.
 
-Seguridad (Token): Se generó un Personal Access Token (classic) con permisos de repo. Esto asegura que el flujo de trabajo cumpla con las normas de seguridad de GitHub.
+Seguridad e Higiene Digital:Se generó un Personal Access Token (classic) con permisos de repo. Además, se cuenta con MFA (Autenticación Multifactor) activado en GitHub para proteger la cuenta.
 
 3. Evidencia de Historial Final (git log)
 
