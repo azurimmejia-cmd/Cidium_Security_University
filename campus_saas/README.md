@@ -67,6 +67,8 @@ Para facilitar el trabajo del Equipo de Experiencia (Frontend), se ha definido e
   "rol": "alumno",
   "institution_id": 1
 }
+```
+
 ###🚀 6. Roadmap de Implementación Sugerido
 Basado en la documentación entregada, los pasos para la construcción del MVP son:
 
