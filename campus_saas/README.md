@@ -69,14 +69,15 @@ Para facilitar el trabajo del Equipo de Experiencia (Frontend), se ha definido e
 }
 ```
 
-###🚀 6. Roadmap de Implementación Sugerido
+### 🚀 6. Roadmap de Implementación Sugerido
 Basado en la documentación entregada, los pasos para la construcción del MVP son:
 
 Configuración de credenciales en Google Cloud Console.
 Implementación de la capa de datos en PostgreSQL siguiendo el modelo E-R.
 Despliegue de los middlewares de autenticación y protección de rutas.
 Activación de webhooks de Stripe para la conciliación en tiempo real.
-###👥 Equipo de Desarrollo
+
+### 👥 Equipo de Desarrollo
 Kibsaim Mejia
 Industrial Chemical Engineer & Data Analyst
 Encargado de Documentación Técnica del Platform Team
